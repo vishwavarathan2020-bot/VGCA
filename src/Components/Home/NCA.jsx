@@ -59,7 +59,7 @@ const AcademyInfo = () => {
         {/* CTA - Fixed button width for mobile */}
         <div className="p-6 md:p-10 pt-0 text-center">
           <a
-            href="https://nationalcricketsacademy.com/"
+            href="/rigistrationform"
             target="_blank"
             rel="noreferrer"
             className="inline-block w-full sm:w-auto bg-gradient-to-r from-yellow-400 to-orange-500 text-black font-black px-12 py-4 rounded-full text-lg shadow-xl hover:scale-105 active:scale-95 transition-all"
