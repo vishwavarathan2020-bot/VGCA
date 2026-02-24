@@ -44,8 +44,8 @@ const Footer = () => {
             <a href="/gallery" className="flex items-center gap-3">
               <span>→</span> Gallery
             </a>
-            <a href="/ourcenter"className="flex items-center gap-3">
-              <span>→</span> Our Center
+            <a href="/ourcenters"className="flex items-center gap-3">
+              <span>→</span> Our Centers
             </a>
             <a  href="/rigistrationform"className="flex items-center gap-3">
               <span>→</span> Registration

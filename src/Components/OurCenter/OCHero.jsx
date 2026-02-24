@@ -4,7 +4,15 @@ import TextType from "../UI/OCType";
 const OurCentersHero = () => {
   return (
     <section className="relative w-full h-[60vh] md:h-[70vh] lg:h-[80vh] overflow-hidden bg-black">
-      
+       <div className="absolute inset-0">
+        <img
+          src="https://i.pinimg.com/736x/7f/58/6b/7f586b5d42d003a2bab09edd5102b52e.jpg"
+          alt="Venugobal Cricket Academy"
+          className="w-full h-full object-cover scale-110 opacity-40"
+        />
+        {/* Dark Overlay for better text readability */}
+   
+      </div>
       {/* Background Image - Scale adjusted for mobile parallax feel */}
       <img
         src="https://images.unsplash.com/photo-1517649763962-0c623066013b"

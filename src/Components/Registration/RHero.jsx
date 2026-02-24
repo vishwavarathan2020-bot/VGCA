@@ -4,7 +4,15 @@ import TextType from "../UI/RType";
 const RegistrationHero = () => {
   return (
     <section className="relative h-[40vh] md:h-[45vh] w-full flex items-center justify-center overflow-hidden bg-black px-4">
-
+ <div className="absolute inset-0">
+        <img
+          src="https://i.pinimg.com/736x/7f/58/6b/7f586b5d42d003a2bab09edd5102b52e.jpg"
+          alt="Venugobal Cricket Academy"
+          className="w-full h-full object-cover scale-110 opacity-40"
+        />
+       
+   
+      </div>
       {/* Dark gradient background */}
       <div className="absolute inset-0 bg-gradient-to-r from-black via-gray-900 to-black"></div>
 

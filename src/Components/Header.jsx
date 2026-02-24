@@ -8,7 +8,7 @@ const Navbar = () => {
   const toggleMenu = () => setIsOpen(!isOpen);
 
   return (
-    <header className="w-full h-20 md:h-24 bg-gradient-to-r from-purple-600 via-violet-600 to-purple-700 shadow-xl sticky top-0 z-50">
+    <header className="w-full h-20 md:h-24 bg-gradient-to-r from-orange-600 via-orange-600 to-orange-700 shadow-xl sticky top-0 z-50">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 h-full flex items-center justify-between">
         
         {/* Logo + Title */}
@@ -45,7 +45,7 @@ const Navbar = () => {
         {/* Desktop CTA */}
         <Link
           to="/rigistrationform"
-          className="hidden lg:inline-block bg-white text-purple-700 px-6 py-2 rounded-full font-bold shadow-lg hover:scale-105 transition active:scale-95"
+          className="hidden lg:inline-block bg-white text-orange-700 px-6 py-2 rounded-full font-bold shadow-lg hover:scale-105 transition active:scale-95"
         >
           Register Now
         </Link>

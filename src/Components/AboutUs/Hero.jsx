@@ -4,7 +4,16 @@ import TextType from "../UI/TType";
 const AboutBanner = () => {
   return (
     <section className="relative w-full min-h-[50vh] md:h-[60vh] bg-black overflow-hidden flex items-center justify-center py-16">
-      
+     <div className="absolute inset-0">
+        <img
+          src="https://i.pinimg.com/736x/7f/58/6b/7f586b5d42d003a2bab09edd5102b52e.jpg"
+          alt="Venugobal Cricket Academy"
+          className="w-full h-full object-cover scale-110 opacity-40"
+        />
+        {/* Dark Overlay for better text readability */}
+   
+      </div>
+
       {/* Orange Glow Effects - Adjusted size and opacity for mobile */}
       <div className="absolute -top-16 -left-16 md:-top-32 md:-left-32 w-64 h-64 md:w-96 md:h-96 bg-orange-600/20 rounded-full blur-[80px] md:blur-[120px]"></div>
       <div className="absolute -bottom-16 -right-16 md:-bottom-32 md:-right-32 w-64 h-64 md:w-96 md:h-96 bg-orange-600/20 rounded-full blur-[80px] md:blur-[120px]"></div>

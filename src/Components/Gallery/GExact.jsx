@@ -12,7 +12,7 @@ const Gallery = () => {
         {/* Top Left */}
         <div className="group relative h-[300px] md:h-[350px] overflow-hidden rounded-xl">
           <img
-            src="https://images.unsplash.com/photo-1517649763962-0c623066013b"
+            src="https://i.pinimg.com/736x/ab/5a/4a/ab5a4a771aa44c51eaebe2a8ba1d6a77.jpg"
             className="w-full h-full object-cover group-hover:scale-110 transition duration-700"
           />
           <div className="absolute inset-0 bg-black/40"></div>
@@ -24,7 +24,7 @@ const Gallery = () => {
         {/* Top Right */}
         <div className="group relative h-[300px] md:h-[350px] overflow-hidden rounded-xl">
           <img
-            src="https://images.unsplash.com/photo-1502877338535-766e1452684a"
+            src="https://i.pinimg.com/1200x/98/ce/ae/98ceae9a4e02183018897b419c893740.jpg"
             className="w-full h-full object-cover group-hover:scale-110 transition duration-700"
           />
           <div className="absolute inset-0 bg-black/40"></div>
