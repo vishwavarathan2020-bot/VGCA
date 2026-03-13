@@ -56,7 +56,9 @@ const RegistrationForm = () => {
             </div>
             <div className="flex flex-col gap-2">
               <label className="text-xs font-bold text-gray-500 uppercase ml-1">Date of Birth</label>
+              
               <input
+          
                 type="date"
                 name="dob"
                 required

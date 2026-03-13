@@ -1,7 +1,7 @@
 import React from "react";
 
 const images = [
-  "https://i.pinimg.com/1200x/ea/d0/44/ead044037037086d2770e5bd7cc607fa.jpg",
+  "https://i.pinimg.com/736x/04/ef/42/04ef425cee45f839645c229ebdb89d53.jpg",
   "https://i.pinimg.com/1200x/a5/db/65/a5db65c63b05a825a4a0979600d4846c.jpg",
   "https://i.pinimg.com/736x/3a/26/47/3a2647fcdcf725333272c28327b04673.jpg",
   "https://i.pinimg.com/736x/17/18/61/1718612964bc26af71cc9c72883ea2b2.jpg",
