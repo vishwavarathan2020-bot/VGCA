@@ -5,27 +5,27 @@ const RoleOfINCA = () => {
     {
       title: "1. Talent Identification and Development",
       text: "INCA serves as a primary institution for identifying and nurturing young cricketing talent across India. It provides structured training programs and world-class facilities to groom players for domestic and international cricket.",
-      img: "https://images.unsplash.com/photo-1540747913346-19e32dc3e97e"
+      img: "https://i.pinimg.com/736x/9a/7e/fe/9a7efe5d28494aef7474f4182dafc3fb.jpg"
     },
     {
       title: "2. Advanced Coaching and Mentorship",
       text: "The academy offers advanced coaching led by experienced coaches and former cricketers. This coaching focuses on enhancing players’ technical skills, tactical awareness, physical fitness, and mental resilience.",
-      img: "https://images.unsplash.com/photo-1593341646782-e0b495cff86d"
+      img: "https://i.pinimg.com/736x/e5/84/98/e584982bafcc031369961a44947997c4.jpg"
     },
     {
       title: "3. State-of-the-Art Facilities",
       text: "Equipped with state-of-the-art facilities including multiple training grounds, indoor practice nets, fitness centers, and medical rehabilitation services, INCA ensures comprehensive player development.",
-      img: "https://images.unsplash.com/photo-1502877338535-766e1452684a"
+      img: "https://i.pinimg.com/736x/1f/46/17/1f4617dc8bc49820472d95fb76530032.jpg"
     },
     {
       title: "4. Integration of Technology",
       text: "INCA integrates modern technology such as video analysis, biomechanics, and data analytics into its coaching methodologies to refine player technique and strategy.",
-      img: "https://images.unsplash.com/photo-1517649763962-0c623066013b"
+      img: "https://i.pinimg.com/1200x/02/24/69/022469a27a7975ab95d1b57f986b84f1.jpg"
     },
     {
       title: "5. Talent Pipeline for National Teams",
       text: "INCA serves as a crucial talent pipeline for Indian national teams at all levels, from Under-19 to the senior team, ensuring a steady stream of elite athletes.",
-      img: "https://images.unsplash.com/photo-1521412644187-c49fa049e84d"
+      img: "https://i.pinimg.com/736x/3a/ec/f9/3aecf946f79efe3a311b0f8292619050.jpg"
     }
   ];
 

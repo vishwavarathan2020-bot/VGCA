@@ -4,18 +4,18 @@ const academies = [
   {
     title: "Academy for Cricketing Excellence",
     location: "Nyorch market, Yupia,\nArunachal Pradesh 791110",
-    image: "https://images.unsplash.com/photo-1517649763962-0c623066013b",
+    image: "https://i.pinimg.com/736x/49/e4/b5/49e4b52fd6dcb1a8b38bdfc6fc66e174.jpg",
   },
   {
     title: "Santipur Cricket Academy",
     location: "Plot No. 42, Santipur Main Road,\nSantipur, Guwahati – 781009",
-    image: "https://images.unsplash.com/photo-1521412644187-c49fa049e84d",
+    image: "https://i.pinimg.com/1200x/4b/c8/cb/4bc8cb24aa2bed3c424f655302f7a7a4.jpg",
   },
   {
     title: "MS Dhoni Cricket Academy",
     location:
       "Urja Stadium, opposite DAV School,\nBSEB Colony, Rajbansi Nagar,\nPatna, Bihar 80002",
-    image: "https://images.unsplash.com/photo-1502877338535-766e1452684a",
+    image: "https://i.pinimg.com/1200x/28/67/74/286774fa7537173931171085c15abb65.jpg",
   },
 ];
 
