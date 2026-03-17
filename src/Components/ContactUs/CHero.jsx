@@ -4,7 +4,8 @@ import TextType from "../UI/CType";
 const ContactHero = () => {
   return (
     <section className="relative w-full h-[30vh] md:h-[35vh] flex items-center justify-center overflow-hidden bg-black px-4">
- <div className="absolute inset-0">
+
+       <div className="absolute inset-0">
         <img
           src="https://i.pinimg.com/736x/7f/58/6b/7f586b5d42d003a2bab09edd5102b52e.jpg"
           alt="Venugobal Cricket Academy"
@@ -14,7 +15,7 @@ const ContactHero = () => {
    
       </div>
       {/* Background gradient with better contrast */}
-      <div className="absolute inset-0 bg-gradient-to-r from-black via-[#111] to-black"></div>
+    
 
       {/* Soft orange glow - optimized for mobile performance */}
       <div className="absolute inset-0 bg-orange-600/10 blur-[100px] pointer-events-none"></div>
